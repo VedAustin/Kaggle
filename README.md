@@ -1,3 +1,5 @@
+# ~Requires Documentation~
+
 # Kaggle - Facebook Data Science Competition (https://www.kaggle.com/c/facebook-v-predicting-check-ins)
 
 The goal is to predict where the user is checking in given (x,y) coordinates, accuracy (related to coordinates) and a transformed time stamp
